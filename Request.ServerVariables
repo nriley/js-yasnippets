@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Request.ServerVariables
+# key: rsv
+# --
+Request.ServerVariables("$0")
